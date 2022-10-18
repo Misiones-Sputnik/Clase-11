@@ -4,6 +4,8 @@ El lanzamiento del satélite Sputnik-1 de la Unión Soviética dio comienzo a la
 
 ####  Sputnik, el primer satélite que dió comienzo a la carrera espacial durante la guerra fría. Su nombre proviene del ruso *Спутник* y su significado es *"satélite"* o *"compañero de viaje".*
 
+![Satélite](https://elordenmundial.com/wp-content/uploads/2020/11/sputnik-carrera-espacial-guerra-fria-1-1310x893.jpg)
+
 ## Naves Sputnik
 Se separó en 10 etapas en las cuales abordó animales, insectos y plantas, con la intención de llevar al ser humano al espacio, de los cuales destacan los 3 primeros.
 
