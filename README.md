@@ -23,6 +23,24 @@ El Sputnik-3 supuso una nueva etapa en las investigaciones del estudio del espac
 
 - **Sputnik-5** fue un satélite artificial lanzado en 1960, fue la segunda prueba del Programa Vostok. Este llevaba a bordo una increible cantidad de diversos seres vivos. En el iban los perros Belka y Strelka, 40 ratones, 2 ratas y una diversas plantas. La nave regresó a la Tierra al día siguiente y todos los animales a bordo fueron recuperados sanos.
 
+
+## Partes del primer satélite;
+
+![Satélite](http://www.russianspaceweb.com/images/spacecraft/science/sputnik/sputnik_design_kgch_1.jpg)
+
+| 1. Interruptor del sistema de control térmico DTK-34 | 12. Escudo térmico |
+| 2. Transmisor de radio D-200 | 13. Boquilla de chorro |
+| 3. Interruptor térmico de control e interruptor barométrico | 14. Sección de transferencia |
+| 4. Entrada de cable selladaEntrada de cable sellada | 15. Satélite |
+| 5. Antena | 16. Satélite |
+| 6. Baterías de fuente de alimentación | 17. Dispositivos pirotécnicos |
+| 7. Salida de interfaz | 18. Interfaz pirotécnica |
+| 8. Cambiar interfaz | 19. Válvula |
+| 9. Admirador | 20. Sistema EPK |
+| 10. Difusor | 21. Interfaz de drossel |
+| 11. Interruptor remoto | 22. Receptor |
+
+
 ![Satélite](http://www.russianspaceweb.com/images/spacecraft/science/sputnik/ps1_exploded_1.jpg)
 
 
