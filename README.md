@@ -11,9 +11,7 @@ Se separó en 10 etapas distintas en las cuales abordó animales, insectos y pla
 
 - Sputnik 1, fue lanzado el 4 de octubre de 1957 (1 año después, EE.UU. creará la NASA). Se convirtió en el primer objeto de fabricación humana en órbita, una esfera de aluminio de 58 cm de diámetro que tenía una masa aproximada de 83 kg.
 
-- Sputnik 2, su segunda versión, llevó por primera vez al espacio un animal, Laika, un can callejero que también se convirtió en el primer animal en morir en una órbita. Su misión consistía en medir la radiación solar y rayos cósmicos, como también proporcionar datos sobre el comportamiento de un ser vivo en el medio espacial.
-
-La cabina tenía un sistema que le proveía oxígeno, comida y agua que se encontraba en forma de gelatina, además de unos electrodos que monitorean las señales vitales.
+- Sputnik 2, su segunda versión, llevó por primera vez al espacio un animal, Laika, un can callejero que también se convirtió en el primer animal en morir en una órbita. Su misión consistía en medir la radiación solar y rayos cósmicos, como también proporcionar datos sobre el comportamiento de un ser vivo en el medio espacial. La cabina tenía un sistema que le proveía oxígeno, comida y agua que se encontraba en forma de gelatina, además de unos electrodos que monitorean las señales vitales.
 No existía posibilidad de que la nave retornara a la Tierra y se planeó matar a Laika después de 10 días en órbita. Sin embargo, no fue necesário. En 2002 se reveló que la perra había muerto a pocas horas por el estrés y sobrecalentamiento, se alcanzaron los 40°  por un desprendimiento de unas placas termoaislantes.
 
 
