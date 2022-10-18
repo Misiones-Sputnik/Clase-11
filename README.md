@@ -5,7 +5,7 @@ El lanzamiento del satélite Sputnik-1 de la Unión Soviética dio comienzo a la
 ####  Sputnik, el primer satélite que dió comienzo a la carrera espacial durante la guerra fría. Su nombre proviene del ruso *Спутник* y su significado es *"satélite"* o *"compañero de viaje".*
 
 ## Naves Sputnik
-Se separó en 10 etapas en las cuales abordó animales, insectos y plantas, con la intención de llevar al ser humano al espacio.
+Se separó en 10 etapas en las cuales abordó animales, insectos y plantas, con la intención de llevar al ser humano al espacio, de los cuales destacan los 3 primeros.
 
 - Sputnik 1 fue lanzado el 4 de octubre de 1957 (1 año después, EE.UU. creará la NASA). Se convirtió en el primer objeto de fabricación humana en órbita, una esfera de aluminio de 58 cm de diámetro que tenía una masa aproximada de 83 kg.
 
