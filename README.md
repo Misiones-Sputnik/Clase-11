@@ -7,9 +7,9 @@ El lanzamiento del satélite Sputnik-1 de la Unión Soviética dio comienzo a la
 ## Naves Sputnik
 Se separó en 10 etapas en las cuales abordó animales, insectos y plantas, con la intención de llevar al ser humano al espacio.
 
-- Sputnik 1 fue lanzado el 4 de octubre de 1957 (1 año después de esto, EE.UU. creará la NASA). Se convirtió en el primer objeto de fabricación humana en órbita, una esfera de aluminio de 58 cm de diámetro que tenía una masa aproximada de 83 kg.
+- El Sputnik 1 lo lanzaron el 4 de octubre de 1957 (1 año después de que EE.UU. creara la NASA). Se convirtió en el primer objeto de fabricación humana en órbita.
 
-- Sputnik 2, su segunda versión, llevó por primera vez al espacio un animal, Laika, un can callejero que también se convirtió en el primer animal en morir en una órbita.
+- Sputnik 2 llevó por primera vez al espacio un animal, Laika, un can callejero que también se convirtió en el primer animal en morir en una órbita. Su misión consistía en medir la radiación solar y rayos cósmicos, como también proporcionar datos sobre el comportamiento de un ser vivo en el medio espacial.
 
 
 
