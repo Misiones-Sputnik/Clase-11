@@ -1,6 +1,6 @@
 # Clase 11; Programa Sputnik (URSS)
 
-El lanzamiento del satélite Sputnik-1 de la Unión Soviética dio comienzo a la carrera espacial durante la guerra fría. Fue el primer satélite artificial en órbita de la Tierra, con la finalidad de obtener información sobre la concentración de los electrones de la ionosfera.
+El lanzamiento del satélite Sputnik-1 de la Unión Soviética dio comienzo a la carrera espacial contra Estados Unidos durante la guerra fría. Fue el primer satélite artificial en órbita de la Tierra, con la finalidad de obtener información sobre la concentración de los electrones de la ionosfera.
 
 ####  Sputnik, el primer satélite que dió comienzo a la carrera espacial durante la guerra fría. Su nombre proviene del ruso *Спутник* y su significado es *"satélite"* o *"compañero de viaje".*
 
@@ -11,7 +11,7 @@ Se separó en 10 etapas en las cuales abordó animales, insectos y plantas, con 
 
 - Sputnik 1 fue lanzado el 4 de octubre de 1957 (1 año después, EE.UU. creará la NASA). Se convirtió en el primer objeto de fabricación humana en órbita, una esfera de aluminio de 58 cm de diámetro que tenía una masa aproximada de 83 kg.
 
-- Sputnik 2, su segunda versión, llevó por primera vez al espacio un animal, Laika, un can callejero que también se convirtió en el primer animal en morir en una órbita. Su misión consistía en medir la radiación solar y rayos cósmicos, como también proporcionar datos sobre el comportamiento de un ser vivo en el medio espacial.
+- Sputnik 2, su segunda versión, llevó por primera vez al espacio un animal, Laika, un can callejero que también se convirtió en el primer animal en morir en una órbita. Su misión consistía en medir la radiación solar y rayos cósmicos, como también proporcionar datos sobre el comportamiento de un ser vivo en el medio espacial. Pero desde un comienzo estaba planeada la muerte del animal, ya que no existia la posibilidad de que la nave retornara a la Tierra.
 
 
 
