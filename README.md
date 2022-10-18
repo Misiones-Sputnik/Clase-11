@@ -1,4 +1,4 @@
-# Clase 11; Programa Sputnik (URSS)
+# Clase 11; Programa Sputnik (URSS) :star2:
 
 El lanzamiento del satélite Sputnik-1 de la Unión Soviética dio comienzo a la carrera espacial contra Estados Unidos durante la guerra fría. Fue el primer satélite artificial en órbita de la Tierra y poseía la finalidad de obtener información sobre la concentración de los electrones de la ionosfera.
 
@@ -14,6 +14,8 @@ Se separó en 10 etapas distintas en las cuales abordó animales, insectos y pla
 - Sputnik 2, su segunda versión, llevó por primera vez al espacio un animal, Laika, un can callejero que también se convirtió en el primer animal en morir en una órbita. Su misión consistía en medir la radiación solar y rayos cósmicos, como también proporcionar datos sobre el comportamiento de un ser vivo en el medio espacial. La cabina tenía un sistema que le proveía oxígeno, comida y agua que se encontraba en forma de gelatina, además de unos electrodos que monitorean las señales vitales.
 No existía posibilidad de que la nave retornara a la Tierra y se planeó matar a Laika después de 10 días en órbita. Sin embargo, no fue necesário. En 2002 se reveló que la perra había muerto a pocas horas por el estrés y sobrecalentamiento, se alcanzaron los 40°  por un desprendimiento de unas placas termoaislantes.
 
+- Sputnik-3, se diseñó para estudiar las capas superiores de la atmósfera y el espacio cósmico. En su interior contenía instrumentos para medir la presión y composición de la atmósfera, la concentración de iones positivos, las magnitudes de la carga eléctrica del Sputnik, la tensión de los campos electrostático y magnéticos terrestres. También se instaló un radio transmisor que emite constantemente una señal pulsante, similar a un sonido bip-bip, que permite seguir al satélite.
+El Sputnik-3 supuso una nueva etapa en las investigaciones del estudio del espacio cósmico y de las capas altas de la atmósfera. Fue la mayor contribución de la ciencia soviética a la ciencia mundial.
 
 
 
