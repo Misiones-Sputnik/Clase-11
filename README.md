@@ -29,7 +29,7 @@ El Sputnik-3 supuso una nueva etapa en las investigaciones del estudio del espac
 ![Satélite](http://www.russianspaceweb.com/images/spacecraft/science/sputnik/sputnik_design_kgch_1.jpg)
 
 | Partes             |  |
-|:---------------------|:--------------:|
+|:---------------------|:--------------|
 | 1. Interruptor del sistema de control térmico DTK-34 | 12. Escudo térmico |
 | 2. Transmisor de radio D-200 | 13. Boquilla de chorro |
 | 3. Interruptor térmico de control e interruptor barométrico | 14. Sección de transferencia |
