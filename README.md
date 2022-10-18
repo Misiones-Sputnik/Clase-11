@@ -46,7 +46,7 @@ El Sputnik-3 supuso una nueva etapa en las investigaciones del estudio del espac
 ![Satélite](http://www.russianspaceweb.com/images/spacecraft/science/sputnik/ps1_exploded_1.jpg)
 
 
-## Trayectoria;
+## Trayectoria del satélite;
 ![trayectoria](https://www.researchgate.net/profile/Deganit-Paikowsky/publication/260582330/figure/fig26/AS:296641073565705@1447736151467/This-plot-showing-the-orbital-track-of-the-Sputnik-1-satellite-was-computed-by-scientists.png)
 
 
